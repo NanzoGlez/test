@@ -1,2 +1,7 @@
 Gonzalo
+<<<<<<< HEAD
 prueba de git para revisar los comandos 
+=======
+
+ESTA ES UNA NUEVA LINEA
+>>>>>>> 9430b7215e12dd033674daa306e4537b75a97951
